@@ -14,5 +14,11 @@
     "morgan": "~1.6.1",
     "sequelize": "^3.19.3",
     "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "bluebird": "^3.4.6",
+    "should": "^11.1.0",
+    "supertest": "^2.0.0"
   }
 }
